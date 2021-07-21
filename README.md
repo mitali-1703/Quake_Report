@@ -1,6 +1,6 @@
 # Quake_Report
 
-An Android Application to get information about Earthquakes that occured in US between 1JAN-30JAN.
+An Android Application to get information about Earthquakes that occured in US between 1JAN-2016 to 30JAN-2016.
 
 ### Preview of the app:-
 
